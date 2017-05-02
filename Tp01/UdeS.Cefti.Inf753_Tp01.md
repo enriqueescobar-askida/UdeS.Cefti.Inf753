@@ -1,4 +1,4 @@
-nf753-cefti@listes.usherbrooke.ca
+Inf753-cefti@listes.usherbrooke.ca
 Message body
 Bonjour tout le monde,
  
