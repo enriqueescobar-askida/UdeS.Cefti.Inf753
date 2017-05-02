@@ -21,3 +21,8 @@ Et si vous êtes pigiste et cherchez des contrats, vous en trouverez de nombreux
 http://www.agentsolo.com/ca/fr/
 
 Bonne chance!
+Le cours INF721 est suggéré aux étudiants du DGL seulement.
+ 
+Voici le cours que nous vous avons pré-inscrit pour cet été : INF753 (Conception et évaluation d’IPM).
+ 
+Voici l’horaire des cours : https://www.usherbrooke.ca/cefti/cefti/planification-et-activites/
