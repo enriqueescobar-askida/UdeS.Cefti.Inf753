@@ -3,9 +3,26 @@ Inf753 ui-ux
 
 ## Tidwell, J.: Chapitre 1
 
- Quand une designer s’amuse à imaginer la pire expérience utilisateur possible… URL
- All Those Opposed : Making the case for user experience in a budget-conscious climate URL
- It's not you. Bad doors are everywhere. URL
+### Quand une designer s’amuse à imaginer la pire expérience utilisateur possible…
+
+https://www.usherbrooke.ca/moodle2-cours/mod/url/view.php?id=716330
+
+The Uncomfortable, un projet drôle et décalé de la designer et architecte Katerina Kamprani, qui s’amuse à imaginer la pire expérience utilisateur possible avec des objets inutilisables…
+
+http://www.ufunk.net/design/the-uncomfortable-katerina-kamprani/
+
+### All Those Opposed : Making the case for user experience in a budget-conscious climate
+
+https://www.usherbrooke.ca/moodle2-cours/mod/url/view.php?id=716331
+
+INF753-E2017 Conception et évaluation d'interfaces personne-machine
+All Those Opposed : Making the case for user experience in a budget-conscious climate
+
+http://www.ddj.com/architect/184411634
+
+### It's not you. Bad doors are everywhere
+
+https://www.youtube.com/watch?v=yY96hTb8WgI
 
 ## FYI
 
