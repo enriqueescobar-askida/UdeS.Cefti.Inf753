@@ -24,6 +24,7 @@ concevoir et d'évaluer des interfaces multimédia
 réaliser l'importance de la conception centrée sur l'utilisateur et de l'évaluation d'une interface
 connaître les outils disponibles pour le développement d'interfaces (boîtes à outils, squelettes d'application, générateurs d'interface)
 comprendre l'importance du paradigme MVC (Modèle-vue-contrôleur) pour le développement d’IU.
+
 4. Approche pédagogique préconisée
 
 Cours magistraux (3 heures par cours).
