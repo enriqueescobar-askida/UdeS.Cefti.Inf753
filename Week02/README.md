@@ -94,10 +94,23 @@ Exemples:
 
 – https://web.archive.org/web/20130328094155/
 
-http://www.pneutest.com/pneus_d_ete/toyo/proxes_ne/index.html
+- http://www.pneutest.com/pneus_d_ete/toyo/proxes_ne/index.html
 
 – http://www.tirerack.com/tires/surveyresults/surveydisplay.jsp?type=AS
 
 ## Slides 6
+
+Guides de conception
+• http://msdn.microsoft.com/en-us/library/aa511258.aspx
+
+• http://developer.apple.com/mac/library/navigation/
+
+• https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html
+
+• www.webstyleguide.com
+
+• www.usability.gov/guidelines/
+
+• https://www.gov.uk/designprinciples
 
 
