@@ -7,7 +7,9 @@ Inf753 ui-ux
 
 https://www.usherbrooke.ca/moodle2-cours/mod/url/view.php?id=716330
 
-The Uncomfortable, un projet drôle et décalé de la designer et architecte Katerina Kamprani, qui s’amuse à imaginer la pire expérience utilisateur possible avec des objets inutilisables…
+The Uncomfortable, un projet drôle et décalé de la designer et architecte Katerina Kamprani,
+
+qui s’amuse à imaginer la pire expérience utilisateur possible avec des objets inutilisables…
 
 http://www.ufunk.net/design/the-uncomfortable-katerina-kamprani/
 
@@ -16,6 +18,7 @@ http://www.ufunk.net/design/the-uncomfortable-katerina-kamprani/
 https://www.usherbrooke.ca/moodle2-cours/mod/url/view.php?id=716331
 
 INF753-E2017 Conception et évaluation d'interfaces personne-machine
+
 All Those Opposed : Making the case for user experience in a budget-conscious climate
 
 http://www.ddj.com/architect/184411634
@@ -37,16 +40,19 @@ https://www.youtube.com/watch?v=yY96hTb8WgI
 ## Slides 2
 
 Facteurs cognitifs
+
 – La mémoire humaine a ses limites=> minimiser l’encombrement de la mémoire à court terme
 
 – Prévoir les traitements à court terme (courtes lectures)
 
-– Ex.: www.zappos.com
+– http://www.zappos.com
 
 ## Slides 3
 
 Utilisabilité
-- Définition ISO 9241 Degré selon lequel un produit peut être utilisé, par des utilisateurs identifiés, pour atteindre des buts définis avec efficacité, efficience et satisfaction, dans un contexte d'utilisation spécifié.
+
+- Définition ISO 9241 Degré selon lequel un produit peut être utilisé, par des utilisateurs identifiés, pour atteindre des buts définis avec efficacité,
+efficience et satisfaction, dans un contexte d'utilisation spécifié.
 
 – Efficacité: précision et degré d'achèvement selon lesquels l'utilisateur atteint des objectifs spécifiés.
 
@@ -54,12 +60,13 @@ Utilisabilité
 
 – Satisfaction: absence d'inconfort et attitudes positives dans l'utilisation du produit.
 
-https://www.iso.org/obp/ui/fr/#iso:std:iso:9241:-210:ed-1:v1:fr
+- https://www.iso.org/obp/ui/fr/#iso:std:iso:9241:-210:ed-1:v1:fr
 
 ## Slides 4
 
 Pourquoi étudier les IU?
-• L’interface représente une partie majeure du travail dans des applications interactives – 48% du code et 50% du temps de développement concerne l’interface 
+
+- L’interface représente une partie majeure du travail dans des applications interactives – 48% du code et 50% du temps de développement concerne l’interface 
 
 Ten Reasons why it is Never Too Late for Usability
 
@@ -75,7 +82,9 @@ Une mauvaise IU coûte
 
 – de l’argent 5 %  de satisfaction =     profits de l’ordre de 85%.
 
-Principe de Pareto (80/20) 80% du chiffre d’affaires vient de 20% des acheteurs E-commerce :  Améliorations apportent 40% plus d’acheteurs et des commandes 10% plus élevées.
+Principe de Pareto (80/20) 80% du chiffre d’affaires vient de 20% des acheteurs
+
+E-commerce :  Améliorations apportent 40% plus d’acheteurs et des commandes 10% plus élevées.
 
 Retour sur investissement de l’utilisabilité : $1: $10-$100. 
 
@@ -93,6 +102,7 @@ Taux de conversion
 • TC : Un événement qui se passe lors de l’expérience sur le site = Facilité d’utilisation et UX (user experience) guident le TC.
 
 • Une variable pour mesurer le ROI de l’utilisabilité
+
 Sources:
 
 http://www.nngroup.com/articles/conversion-rates/
