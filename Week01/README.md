@@ -26,13 +26,13 @@ https://www.youtube.com/watch?v=yY96hTb8WgI
 
 ## Slides 1
 
-Ø Capacité d’un système à suggérer sa propre utilisation
+- Capacité d’un système à suggérer sa propre utilisation
 
-Øhttps://www.youtube.com/watch?v=yY96hTb8WgI
+- https://www.youtube.com/watch?v=yY96hTb8WgI
 
-Øhttp://www.fairmont.fr/montebello/media/photos/
+- http://www.fairmont.fr/montebello/media/photos/
 
-Øhttp://www.cnn.com/2015/04/19/photos/cnnphotos-hubble-space-telescope-25thanniversary/index.html
+- http://www.cnn.com/2015/04/19/photos/cnnphotos-hubble-space-telescope-25thanniversary/index.html
 
 ## Slides 2
 
@@ -63,11 +63,11 @@ Pourquoi étudier les IU?
 
 Ten Reasons why it is Never Too Late for Usability
 
-- alterasconsulting.com
+- http://alterasconsulting.com
 
-www.usabilis.com/methode/ergonomie-informatique.htm
+- http://www.usabilis.com/methode/ergonomie-informatique.htm
 
-http://fr.wikipedia.org/wiki/D%C3%A9veloppement_rapide_d%27applications
+- http://fr.wikipedia.org/wiki/D%C3%A9veloppement_rapide_d%27applications
 
 ## Slides 5
 
@@ -112,7 +112,6 @@ http://www.liberation.fr/economie/0101348839-walmart-com-ferme-pour-travaux
 We can't make room for it in the schedule.
 
 http://www.ddj.com/dept/architect/184411634
-
 
 ## FYI
 

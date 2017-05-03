@@ -21,13 +21,14 @@ Sources:
 
 http://www.aoa.org/
 
-www.sljol.info/index.php/GMJ/article/download/1115/1023 (PDF)
+http://www.sljol.info/index.php/GMJ/article/download/1115/1023 (PDF)
 
 ## Slides 2
 
 Contraste
 
 • Favoriser le mode positif, soit un fond clair avec des caractères foncés.
+
 – Outil : Colour Contrast Analyser
 
 http://www.paciellogroup.com/resources/contrast-analyser.html
@@ -48,25 +49,25 @@ Conception graphique & choix de couleurs
 
 Complémentarité Limiter le nombre de couleurs
 
-§ 3 (ou jusqu’à 5, en utilisant des tons et nuances)
+- 3 (ou jusqu’à 5, en utilisant des tons et nuances)
 
-§ Principale (60% du design)
+- Principale (60% du design)
 
-§ Secondaire (30% du design)
+- Secondaire (30% du design)
 
-§ Accent (10% du design) Identifier une palette (color scheme)
+- Accent (10% du design) Identifier une palette (color scheme)
 
-§Mandatez un designer graphique
+- Mandatez un designer graphique
 
-§colorschemedesigner.com
+- http://colorschemedesigner.com
 
-§www.colorsontheweb.com
+- http://www.colorsontheweb.com
 
-§fr-fr.colourlovers.com
+- http://fr-fr.colourlovers.com
 
-§www.degraeve.com/color-palette/index.php
+- http://www.degraeve.com/color-palette/index.php
 
-§color.adobe.com
+- http://color.adobe.com
 
 ## Slides 5
 
@@ -108,9 +109,9 @@ Guides de conception
 
 • https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html
 
-• www.webstyleguide.com
+• http://www.webstyleguide.com
 
-• www.usability.gov/guidelines/
+• http://www.usability.gov/guidelines/
 
 • https://www.gov.uk/designprinciples
 
