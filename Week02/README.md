@@ -16,7 +16,7 @@ http://mashable.com/2011/04/20/design-for-visually-impaired/
 
 ## Slides 1
 
- Les sociétés nord-américaines dépensent actuellement plus de 2 milliards de dollars (US) pour le diagnostic et le traitement du SFVO
+Les sociétés nord-américaines dépensent actuellement plus de 2 milliards de dollars (US) pour le diagnostic et le traitement du SFVO
 Sources:
 
 http://www.aoa.org/
@@ -74,9 +74,9 @@ Pensez aux personnes ayant des problèmes de distinction des couleurs (8% de la 
  
 – http://www.toledobend.com/colorblind/Ishihara.asp
  
-– http://gmazzocato.altervista.org/colorwheel/wheel.php
+- http://gmazzocato.altervista.org/colorwheel/wheel.php
  
-• Et autres limitations de la perception visuelle
+- Et autres limitations de la perception visuelle
  
 – http://mashable.com/2011/04/20/design-forvisually-impaired/
 
@@ -101,6 +101,7 @@ Exemples:
 ## Slides 6
 
 Guides de conception
+
 • http://msdn.microsoft.com/en-us/library/aa511258.aspx
 
 • http://developer.apple.com/mac/library/navigation/
@@ -112,5 +113,4 @@ Guides de conception
 • www.usability.gov/guidelines/
 
 • https://www.gov.uk/designprinciples
-
 
