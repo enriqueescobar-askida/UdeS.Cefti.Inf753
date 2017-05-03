@@ -17,6 +17,7 @@ http://mashable.com/2011/04/20/design-for-visually-impaired/
 ## Slides 1
 
 Les sociétés nord-américaines dépensent actuellement plus de 2 milliards de dollars (US) pour le diagnostic et le traitement du SFVO
+
 Sources:
 
 http://www.aoa.org/
@@ -27,7 +28,7 @@ http://www.sljol.info/index.php/GMJ/article/download/1115/1023 (PDF)
 
 Contraste
 
-• Favoriser le mode positif, soit un fond clair avec des caractères foncés.
+- Favoriser le mode positif, soit un fond clair avec des caractères foncés.
 
 – Outil : Colour Contrast Analyser
 
@@ -103,15 +104,15 @@ Exemples:
 
 Guides de conception
 
-• http://msdn.microsoft.com/en-us/library/aa511258.aspx
+- http://msdn.microsoft.com/en-us/library/aa511258.aspx
 
-• http://developer.apple.com/mac/library/navigation/
+- http://developer.apple.com/mac/library/navigation/
 
-• https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html
+- https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html
 
-• http://www.webstyleguide.com
+- http://www.webstyleguide.com
 
-• http://www.usability.gov/guidelines/
+- http://www.usability.gov/guidelines/
 
-• https://www.gov.uk/designprinciples
+- https://www.gov.uk/designprinciples
 
