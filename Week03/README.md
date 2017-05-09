@@ -3,13 +3,61 @@ Inf753 ui-ux
 
 ## Conception centrée sur l'utilisateur
 
+### Waterfall
+
+www.ebgconsulting.com/reqtproblems.php
+
+Sources: Gartner Group et Standish Group http://www.atlasdumanagement.com/index.php?article=33&zone=2
+
 ## Activités d'analyse
 
 ### Profils utilisateurs
 
+http://www.cefrio.qc.ca/publications/intervention-citoyenne-services-publics/generation-c/
+
+https://www.flickr.com/photos/cizake/4686651830/
+
+#### Outils statistiques
+
+http://quantcast.com
+
+http://alexa.com
+
+http://blogue.cefrio.qc.ca
+
+http://www.seo.com/blog/8-tools-understand-target-audience/
+
+#### Entrevues
+
+https://medium.com/user-experience-101/never-ask-what-they-want-3-betterquestions-to-ask-in-user-interviews-aeddd2a2101e?source=tw-133bd67c70461401545846654
+
 ### Analyse concurrentielle en ergonomie
 
 ### Analyse de tâches, scénarisation
+
+#### Outils
+
+Applications de création de diagrammes
+
+www.lucidchart.com
+
+Offre étudiante
+
+https://www.lucidchart.com/pages/education/students
+
+http://pencil.evolus.vn
+
+#### L’approche utilisateur en entreprise Des exemples
+
+http://ergoweb.ca
+
+http://yucentrik.ca/fr/agence/methodes/
+
+http://entreprise.bell.ca/magasiner/entreprise/servicesutilisabilite-accessibilite/
+
+http://cognitivegroup.com/approach/
+
+http://www.onyris.com
 
 ### Readings
 
