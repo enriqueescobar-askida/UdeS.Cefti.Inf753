@@ -26,3 +26,7 @@ Le cours INF721 est suggéré aux étudiants du DGL seulement.
 Voici le cours que nous vous avons pré-inscrit pour cet été : INF753 (Conception et évaluation d’IPM).
  
 Voici l’horaire des cours : https://www.usherbrooke.ca/cefti/cefti/planification-et-activites/
+
+Mais si vous le souhaitez, voici l’adresse pour obtenir une licence étudiante gratuite :
+
+https://www.axure.com/edu
