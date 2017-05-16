@@ -28,9 +28,9 @@ http://www.sljol.info/index.php/GMJ/article/download/1115/1023 (PDF)
 
 Contraste
 
-- Favoriser le mode positif, soit un fond clair avec des caractères foncés.
+Favoriser le mode positif, soit un fond clair avec des caractères foncés.
 
-– Outil : Colour Contrast Analyser
+Outil : Colour Contrast Analyser
 
 http://www.paciellogroup.com/resources/contrast-analyser.html
 
@@ -40,11 +40,11 @@ http://snook.ca/technical/colour_contrast/colour.html
 
 Conception graphique & choix de couleurs
 
-• Évitez les combinaisons de couleurs saturées (sollicitent la rétine = inconfort) – rouge et bleu – bleu et vert sur fond foncé – jaune et violet – jaune et vert
+Évitez les combinaisons de couleurs saturées (sollicitent la rétine = inconfort) – rouge et bleu – bleu et vert sur fond foncé – jaune et violet – jaune et vert
 
-• http://www.cattletoday.com/
+http://www.cattletoday.com/
 
-• http://www.digitalhollywood.com/DHSpring2015.html
+http://www.digitalhollywood.com/DHSpring2015.html
 
 ## Slides 4
 
@@ -74,13 +74,13 @@ Complémentarité Limiter le nombre de couleurs
 
 Pensez aux personnes ayant des problèmes de distinction des couleurs (8% de la population)
  
-– http://www.toledobend.com/colorblind/Ishihara.asp
+http://www.toledobend.com/colorblind/Ishihara.asp
  
-- http://gmazzocato.altervista.org/colorwheel/wheel.php
+http://gmazzocato.altervista.org/colorwheel/wheel.php
  
-- Et autres limitations de la perception visuelle
+Et autres limitations de la perception visuelle
  
-– http://mashable.com/2011/04/20/design-forvisually-impaired/
+http://mashable.com/2011/04/20/design-forvisually-impaired/
 
 Usages communs
 
@@ -94,11 +94,11 @@ droite = plus
 
 Exemples:
 
-– https://web.archive.org/web/20130328094155/
+https://web.archive.org/web/20130328094155/
 
-- http://www.pneutest.com/pneus_d_ete/toyo/proxes_ne/index.html
+http://www.pneutest.com/pneus_d_ete/toyo/proxes_ne/index.html
 
-– http://www.tirerack.com/tires/surveyresults/surveydisplay.jsp?type=AS
+http://www.tirerack.com/tires/surveyresults/surveydisplay.jsp?type=AS
 
 ## Slides 6
 
@@ -116,3 +116,6 @@ Guides de conception
 
 - https://www.gov.uk/designprinciples
 
+En complément des notions sur le choix d’une palette de couleurs dans une interface (séance 2, p.11), voici un article paru samedi qui aborde la question de la psychologie des couleurs (incluant une  infographie en bas de page qui donne des exemples de taux de conversions) :
+
+http://www.influencia.net/fr/actualites/tendance,image,couleurs-strategiques-dans-creation-plate-forme-web,7424.html
