@@ -61,8 +61,22 @@ http://www.onyris.com
 
 ### Readings
 
-* analyse concurrentielle en ergonomie http://www.ergolab.net/articles/analyse-concurrentielle-ergonomie.html
+* analyse concurrentielle en ergonomie
 
-* Information Architecture: Enhancing the User Experience https://www.webdesignerdepot.com/2010/06/information-architecture-enhancing-the-user-experience/
+http://www.ergolab.net/articles/analyse-concurrentielle-ergonomie.html
 
-* NETendances ou État du commerce électronique au Québec http://www.cefrio.qc.ca/publications/
+* Information Architecture: Enhancing the User Experience
+
+https://www.webdesignerdepot.com/2010/06/information-architecture-enhancing-the-user-experience/
+
+* NETendances ou État du commerce électronique au Québec
+
+http://www.cefrio.qc.ca/publications/
+
+Cette semaine avait lieu la conférence pour développeurs Google I/O, qui présente chaque année les nouveautés proposées chez Google (et Android). Voici un résumé :
+
+http://journalmetro.com/opinions/vie-numerique/1140133/cinq-annonces-importantes-de-google-io-2017/
+
+La diffusion complète :
+
+https://www.youtube.com/watch?v=Y2VF8tmLFHw&feature=youtu.be
