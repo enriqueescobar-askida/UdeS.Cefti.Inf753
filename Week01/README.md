@@ -93,6 +93,7 @@ http://www.amanda.com/joomla_uploads/whitepapers/AM+A_ROIWhitePaper_20Apr0%201.p
 ## Slides 6
 
 Taux de conversion
+
 • Taux de conversion (TC) = % des utilisateurs ayant accédé au site qui posent une action.
 
 • Ex. : 50 000 visites au mois d’avril sur un site transactionnel. 1000 visiteurs ont fait un achat => 1000/50 000 = Taux de conversion de 2%.
