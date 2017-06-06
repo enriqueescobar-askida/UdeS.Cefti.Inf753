@@ -15,9 +15,7 @@ Cet article s'intéresse à l'esthétique des interfaces informatiques et à la 
 
 On a largement démontré l'importance de la démarche ergonomique et les bénéfices que sa mise en œuvre est susceptible d'engendrer. Cependant, elle ne peut pas être menée indépendamment de considérations autour de la beauté des choses. 
 
-
 Le seul travail sur l'utilisabilité n'assure en effet pas une qualité d'utilisation optimale. La perception que les utilisateurs ont de l'application tient certes à sa facilité d'utilisation réelle, mais est aussi très influencée par des considérations esthétiques. 
-
 
 Nous développons des arguments afin d'arriver à ce que la collaboration entre ergonomes et designers se fasse dans le sens d'une discipline commune. Les deux domaines ne doivent pas être travaillés séparément mais inscrits dans la recherche d'un même objectif, la qualité d'utilisation globale. L'ergonomie peut prendre comme support le design pour optimiser l'utilisabilité d'une application. C'est d'ailleurs en dernier lieu le designer qui concrétisera les recommandations ergonomiques et mettra en place le visuel final.
 
@@ -25,23 +23,30 @@ Nous développons des arguments afin d'arriver à ce que la collaboration entre 
 
 On a l'habitude de dire en ergonomie des interfaces que le produit se doit d'être utile et utilisable. De nombreux critères ont été dégagés afin d'évaluer ces deux versants de la qualité ergonomique d'une interface. 
 
-
 L'attractivité visuelle du logiciel ou du site Web n'est souvent considérée qu'en tant qu'élément annexe, sans réel rapport avec la qualité d'utilisation de l'interface. Il semble qu'à partir du moment où l'on considère que le produit est facile à utiliser, rien d'autre ne peut atteindre sa qualité d'utilisation. 
-
 
 La beauté visuelle d'une interface et les impressions subjectives qu'elle suscite doivent pourtant être considérées comme partie prenante de la qualité d'utilisation et peuvent même compenser certains défauts d'utilisabilité. A l'inverse, il sera difficile de compenser une interface affreuse par une utilisabilité bien pensée. On risque en effet que le produit ne soit pas du tout utilisé. Auquel cas l'utilisabilité n'a plus aucune importance. 
 
-
 Ceci est encore plus vrai dans le domaine du web grand public que dans le domaine professionnel. 
-
 
 En effet, une application professionnelle est nécessaire à la réalisation même de l'activité des personnes. Il n'existe souvent pas d'autre application qui puisse permettre à l'utilisateur de réaliser son objectif d'une autre manière. 
 
-
 A l'inverse, dans le domaine du web grand public, lorsque l'utilité du site est réelle et a un sens pour l'internaute, ce dernier a souvent la possibilité d'atteindre son but grâce à d'autres sites web qui supportent la même utilité. Il est donc difficile de parier sur l'utilité pour supposer que les utilisateurs reviendront sur ce site. D'autres éléments doivent les attirer et leur plaire pour qu'ils continuent à utiliser ce site. Dans l'idéal, ce dernier devrait associer utilité, utilisabilité et beauté. 
 
-
 3. L'esthétique au service de l'utilisabilité
+
+Beaucoup d'auteurs en ergonomie considèrent que l'esthétique n'est importante que lorsqu'elle se met au service de l'utilisabilité. Cette considération ne laisse aucune place pour la beauté des choses pour elle-même. 
+On considère dans ce cadre que la valeur esthétique d'une interface doit être travaillée parce qu'elle permet d'augmenter la facilité d'utilisation. En effet, le design aide l'organisation de l'information et peut donc être un support à l'optimisation de l'utilisabilité. 
+
+On peut distinguer deux types d'éléments de design dans les interfaces informatiques :
+
+- les éléments fonctionnels, qui supportent l'interaction (boutons, icônes, distinction des espaces d'information...) 
+
+- les éléments gratuits, qui n'ont d'autre utilité que d'être beaux et agréables à regarder 
+
+Les auteurs qui ont travaillé sur les rapports entre utilisabilité et design se prononcent souvent en faveur de la beauté au service de l'utilisable mais ne laissent pas de place aux éléments de design "gratuits". 
+
+Donald Norman dans ses derniers écrits (voir les références dans les lectures complémentaires) commence cependant à proposer que l'on pourra augmenter l'utilisabilité des produits par l'esthétique, du fait même que les belles choses permettraient une expérience d'interaction agréable. Selon lui, "Aesthetics matter: attractive things work better". 
 
 4. L'esthétique pour l'esthétique
 
