@@ -6,7 +6,10 @@ Inf753 ui-ux
 http://www.ergolab.net/articles/ergonomie-beaute-choses.php
 
 
-Introduction 
+### Introduction
+
+Cet article s'intéresse à l'esthétique des interfaces informatiques et à la vision que doit en avoir l'ergonome. Il constitue une sorte de plaidoyer pour la beauté des choses, pour elle-même mais aussi en ce qu'elle sert l'utilisabilité des interfaces. Chaque partie expose ainsi un argument allant dans le sens d'une plus grande considération de l'attrait visuel des interfaces.
+
 1. Problématique : concilier esthétique et utilisabilité
 
 2. L'utilisabilité n'importe que si le produit est effectivement utilisé
