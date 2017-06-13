@@ -103,3 +103,12 @@ Cette vision un peu simpliste doit être pondérée par la prise en compte du fa
 
 https://www.usherbrooke.ca/moodle2-cours/pluginfile.php/1016235/mod_resource/content/5/Grille-evaluation-ergonomique-Apercu.pdf
 
+## Reference
+
+Bonjour tout le monde, 
+
+Voici l’article auquel j’ai fait référence dans le cours de lundi : 
+
+https://grouplens.org/blog/investigating-the-potential-for-miscommunication-using-emoji/
+
+Martin
