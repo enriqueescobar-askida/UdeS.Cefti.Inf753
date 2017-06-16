@@ -31,6 +31,14 @@ Mais si vous le souhaitez, voici l’adresse pour obtenir une licence étudiante
 
 https://www.axure.com/edu
 
+## 2017-06-01
+
+Je vous invite à lire l’article :
+
+https://www.usherbrooke.ca/ssf/veille/perspectives-ssf/mai-2017/le-ssf-veille/le-design-thinking-une-demarche-pour-systematiser-linnovation/
+
+Bonne journée!
+
 ## 2017-06-05
 
 Les témoignages de deux entreprises montréalaises vous feront voir comment le cycle de développement présenté dans le cours INF753 s’inscrit dans leurs activités (analyse et définitions des objectifs / prototypage itératif lo-fi hi-fi / tests…)
